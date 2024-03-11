@@ -41,11 +41,11 @@ This is an evaluation harness for the benchmark described in [T-Eval: Evaluating
 ## 🛠️ Preparations
 
 ```bash
-$ git clone https://github.com/open-compass/T-Eval.git
-$ cd T-Eval
-$ pip install -r requirements.txt
-$ git clone https://github.com/InternLM/lagent.git
-$ cd lagent && pip install -e .
+git clone https://github.com/open-compass/T-Eval.git
+cd T-Eval
+pip install -r requirements.txt
+git clone https://github.com/InternLM/lagent.git
+cd lagent && pip install -e .
 ```
 
 ##  🛫️ Get Started
